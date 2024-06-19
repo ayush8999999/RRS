@@ -1,0 +1,103 @@
+﻿Name,cost ,cuisines,location,food,ratings,address,name,cost
+The Belgian Fries Company,400,"European, American, Street Food",New Delhi,"French, Japanese, Desserts",4.8,"Third Floor, Century City Mall, Kalayaan Avenue, Poblacion, Makati City",The Belgian Fries Company,400
+Al-Sameer,400,"North Indian, Mughlai",New Delhi,Japanese,4.5,"Little Tokyo, 2277 Chino Roces Avenue, Legaspi Village, Makati City",Al-Sameer,400
+Allure,600,"North Indian, Chinese, Finger Food",New Delhi,"Seafood, Asian, Filipino, Indian",4.4,"Edsa Shangri-La, 1 Garden Way, Ortigas, Mandaluyong City",Allure,600
+BarShala,600,Finger Food,New Delhi,"Japanese, Sushi",4.9,"Third Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City",BarShala,600
+Bikaner House,500,"North Indian, Street Food, Fast Food, Chinese, South Indian, Mithai",New Delhi,"Japanese, Korean",4.8,"Third Floor, Mega Atrium, SM Megamall, Ortigas, Mandaluyong City",Bikaner House,500
+Cafe Coffee Day,450,Cafe,New Delhi,Chinese,4.4,"Ground Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City",Cafe Coffee Day,450
+Cafe CoffeeCo,350,Cafe,New Delhi,"Asian, European",4,"Building K, SM By The Bay, Sunset Boulevard, Mall of Asia Complex (MOA), Pasay City",Cafe CoffeeCo,350
+Cafe Festa,600,"Cafe, North Indian, Fast Food",New Delhi,"Seafood, Filipino, Asian, European",4.2,"Building B, By The Bay, Seaside Boulevard, Mall of Asia Complex (MOA), Pasay City",Cafe Festa,600
+Cheers Lounge Bar,1100,"North Indian, Chinese",New Delhi,"European, Asian, Indian",4.9,"Plaza Level, Sofitel Philippine Plaza Manila, CCP Complex, Pasay City",Cheers Lounge Bar,1100
+Chowmein Hut,200,Chinese,New Delhi,Filipino,4.8,"Brixton Technology Center, 10 Brixton Street, Kapitolyo, Pasig City",Chowmein Hut,200
+Club India Cafe & Restaurant,900,"North Indian, Fast Food, Chinese, Japanese, Asian, Italian",New Delhi,"Filipino, Mexican",4.9,"75 East Capitol Drive, Kapitolyo, Pasig City",Club India Cafe & Restaurant,900
+Domino's Pizza,700,"Pizza, Fast Food",New Delhi,"American, Ice Cream, Desserts",4.2,"23 East Capitol Drive, Kapitolyo, Pasig City",Domino's Pizza,700
+Everest Bakery Cafe,700,"Cafe, Fast Food, Asian, Italian",New Delhi,"Filipino, Mexican",4.8,"Second Floor, UP Town Center, Katipunan Avenue, Diliman, Quezon City",Everest Bakery Cafe,700
+Everest Kitchen,550,"North Indian, Chinese, Tibetan, Italian, Fast Food",New Delhi,Filipino,4.2,"387 P. Guevarra Corner Argonne Street, Addition Hills, San Juan City",Everest Kitchen,550
+Exotic Rooftop Restaurant,600,"Chinese, Thai, Seafood, North Indian, Italian",New Delhi,Korean,4.3,"17 J. Abad Santos Drive, Little Baguio, San Juan City",Exotic Rooftop Restaurant,600
+Flavours,500,"North Indian, Chinese, South Indian",New Delhi,"Cafe, American, Italian, Filipino",3.6,"Ayala Mall, Solenad, Nuvali, Santa Rosa - Tagaytay Road, Don Jose, Santa Rosa",Flavours,500
+Gagan Assam Bengal Restaurant,300,"North Indian, Bengali",New Delhi,"Italian, Pizza",4,"Ground Floor, Building G, Solenad 3, Nuvali, Don Jose, Santa Rosa",Gagan Assam Bengal Restaurant,300
+Gold Resto Bar,850,"North Indian, Chinese",New Delhi,Filipino,4.5,"Aguinaldo Highway, Tagaytay City",Gold Resto Bar,850
+Grand Madras Cafe,250,South Indian,New Delhi,"Cafe, Korean, Desserts",4.5,"Third Floor, BGC Stopover Pavillion, Rizal Drive Corner 31st Street, Bonifacio Global City, Taguig City",Grand Madras Cafe,250
+Green Chilli,800,"North Indian, Chinese, Continental",New Delhi,"Cafe, Bakery, American, Italian",4.4,"Ground Floor, Netlima Building, 4th Avenue Corner 26th Street, Bonifacio Global City, Taguig City",Green Chilli,800
+Gurdev Punjabi Restaurant,200,North Indian,New Delhi,"Seafood, American, Mediterranean, Japanese",4.7,"Sixth Floor, SM Aura Premier, C5 Road Corner 26th Street, Bonifacio Global City, Taguig City",Gurdev Punjabi Restaurant,200
+Haji Irshad Biryani Centre,200,Biryani,New Delhi,"American, Asian, Italian, Seafood",4.5,"Fifth Floor, SM Aura Premier, C5 Corner 26th Street, Bonifacio Global City, Taguig City",Haji Irshad Biryani Centre,200
+Hungerzz Grill,250,Fast Food,New Delhi,"Fast Food, French",3,"SCLN, 208, Bloco A, Loja 30, Asa Norte, Brasí_lia",Hungerzz Grill,250
+Janta Sweets,200,"Street Food, Mithai",New Delhi,Cafe,3.8,"SCLN 104, Bloco A, Loja 26, Asa Norte, Brasí_lia",Janta Sweets,200
+Khosla Cafe,400,"North Indian, Chinese, Fast Food",New Delhi,Bakery,3.7,"SCLN 210, Bloco D, Loja 36/48, Asa Norte, Brasí_lia",Khosla Cafe,400
+King Bar & Restaurant,900,"North Indian, Chinese, Continental",New Delhi,Brazilian,3.8,"CLN 110, Bloco D, Loja 28, Asa Norte, Brasí_lia",King Bar & Restaurant,900
+Le Fairway Restaurant & Bar,1000,"North Indian, Continental",New Delhi,Pizza,3.2,"SCS 214, Bloco C, Loja 40, Asa Sul, Brasí_lia",Le Fairway Restaurant & Bar,1000
+Madan Cafe & Restaurant,300,"North Indian, Chinese, Fast Food",New Delhi,Japanese,3.1,"SCS 213, Bloco C, Loja 35, Asa Sul, Brasí_lia",Madan Cafe & Restaurant,300
+Malhotra Restaurant,800,"North Indian, Chinese, Continental, Italian",New Delhi,Arabian,3.7,"CLS 109, Bloco A, Loja 2/6, Asa Sul, Brasí_lia",Malhotra Restaurant,800
+Metropolis Bar,700,"Chinese, Continental, North Indian",New Delhi,Japanese,3.7,"SCS 212, Bloco B, Loja 26, Asa Sul, Brasí_lia",Metropolis Bar,700
+Mikky Restaurant,800,North Indian,New Delhi,"Brazilian, Cafe",0,"Edifí_cio Josí© Severo, SCS 6, Bloco A, Loja 99, Asa Sul, Brasí_lia",Mikky Restaurant,800
+Mourya Sweets Chat Bhandar,200,"Fast Food, Chinese, Mithai, Street Food",New Delhi,Italian,4.1,"CLS 115, Bloco A, Loja 2, Asa Sul, Brasí_lia",Mourya Sweets Chat Bhandar,200
+My Bar & Restaurant,700,"North Indian, Chinese, Italian, Continental",New Delhi,Pizza,3.1,"Rua 13 Norte, Lote 4, íguas Claras, Brasí_lia",My Bar & Restaurant,700
+My Love Restaurant & Bar,1000,"North Indian, Mughlai, Chinese",New Delhi,"Bar Food, Brazilian",3.6,"Avenida Araucíçrias, 1325, Loja 19, íguas Claras, Brasí_lia",My Love Restaurant & Bar,1000
+Organic German Bakeshop - Brown Bread Bakery,600,"Fast Food, Continental, Italian, Bakery",New Delhi,"Mexican, Grill",4.3,"Vila Malls, Avenida das Castanheiras, Lote 1060, í€guas Claras, Brasí_lia",Organic German Bakeshop - Brown Bread Bakery,600
+Paankhuri Restaurant,500,North Indian,New Delhi,International,4.2,"Brasí_lia Shopping - Piso 2, SCN 5, Bloco A, Asa Norte, Brasí_lia",Paankhuri Restaurant,500
+Pardeep Corner,300,North Indian,New Delhi,"Peruvian, Latin American",3.6,"Fashion Park, Shis Ql 17, Bloco G, Loja 208, Lago Sul, Brasí_lia",Pardeep Corner,300
+Pehalwan Da Hotel,350,Mughlai,New Delhi,"American, Grill",4,"ParkShopping - Piso 2, SAI/SO, írea 6580, Guaríç I, Brasí_lia",Pehalwan Da Hotel,350
+Pizza Hut Delivery,800,"Italian, Pizza, Fast Food",New Delhi,Seafood,3.2,"Pontí£o Lago Sul, SHIS 10, Lote 9, Lago Sul, Brasí_lia",Pizza Hut Delivery,800
+Re Cafe,1300,"Continental, Fast Food",New Delhi,International,4.9,"SCES, Trecho 2, Conjunto 13/36, Setor de Clubes Esportivos Sul, Brasí_lia",Re Cafe,1300
+Rumi Amritsari Naan,200,"North Indian, Chinese",New Delhi,Italian,3.3,"Shopping Iguatemi - piso 1, SHIN CA 4, Lote A, Lago Norte, Brasí_lia",Rumi Amritsari Naan,200
+Sagar Bar-Be Que,500,"North Indian, Mughlai",New Delhi,"American, Burger",3.6,"CLSN 301, Bloco C, Loja 86, Sudoeste, Brasí_lia",Sagar Bar-Be Que,500
+Satyam Rooftop Restaurant,600,"North Indian, Chinese, Fast Food",New Delhi,"Seafood, Bar Food, Brazilian",4,"Praia da Barra da Tijuca, Avenida Lí_cio Costa, Ilha 25, Barra da Tijuca, Rio de Janeiro",Satyam Rooftop Restaurant,600
+Sethi Restaurant,800,"North Indian, Mughlai",New Delhi,"Desserts, Cafe",4.8,"Rua Goní_alves Dias, 32, Centro, Rio de Janeiro",Sethi Restaurant,800
+Shri Bankey Bihari Samosa Wala,100,Street Food,New Delhi,"Juices, Healthy Food",4.7,"Rua Santa Clara, 36, Copabana, Rio de Janeiro",Shri Bankey Bihari Samosa Wala,100
+Sonu South Indian Restaurant,300,"South Indian, North Indian",New Delhi,"Beverages, Bar Food, Fast Food",4.5,"Avenida Prado Junior, 335 B, Copacabana, Rio de Janeiro",Sonu South Indian Restaurant,300
+Southern Welcome Restaurant,250,"South Indian, North Indian",New Delhi,Lebanese,4.2,"Rua Ronald de Carvalho, 55, Copacabana, Rio de Janeiro",Southern Welcome Restaurant,250
+Swagat Dhaba,200,North Indian,New Delhi,Burger,4.8,"Galeria River, Rua Francisco Otaviano, 67, Copacabana, Rio de Janeiro",Swagat Dhaba,200
+Tadka 4986,600,"Chinese, Italian, North Indian",New Delhi,"Brazilian, Bar Food",4.9,"Praí_a Santos Dumont, 116, Gíçvea, Rio de Janeiro",Tadka 4986,600
+The Drunkyard Cafe,850,"North Indian, Chinese, Continental, Thai",New Delhi,"Brazilian, Healthy Food, Juices, Pizza",4.6,"Rua Aní_bal de Mendoní_a, 37, Ipanema, Rio de Janeiro",The Drunkyard Cafe,850
+The Gem Bar & Restaurant,1400,"Continental, North Indian, Chinese",New Delhi,"Brazilian, Bar Food",4.9,"Rua Vinicius de Moraes, 49, Ipanema, Rio de Janeiro",The Gem Bar & Restaurant,1400
+Fozzie's Pizzaiolo,900,"Pizza, Italian, Beverages, Desserts",Ahmedabad,Prompt Service,4.6,"Rua Joana Angí©lica, 40, Ipanema, Rio de Janeiro",Fozzie's Pizzaiolo,900
+La Pino'z Pizza,500,"Pizza, Italian",Ahmedabad,Biryani,4.3,"Rua Jardim Botí¢nico, 731, Jardim Botí¢nico, Lagoa, Rio de Janeiro",La Pino'z Pizza,500
+Mocha,1000,"Cafe, Continental, Desserts",Ahmedabad,"Butter Chicken, Noodles, Thali, Biryani",4,"Le Monde, Bloco 3, Lojas A/B, Avenida das Amí©ricas, 3500, Barra da Tijuca, Rio de Janeiro",Mocha,1000
+Blue -  Rooftop Cafe Restaurant Bistro,1000,"North Indian, Cafe, Italian, Mexican, Continental",Ahmedabad,"Momos, Dragon Chicken, Hakka Noodles, Chowmein, Chop Suey, Chilli Garlic Noodles, Garlic Rice",4.6,"Rua Dias Ferreira, 256, Leblon, Rio de Janeiro",Blue -  Rooftop Cafe Restaurant Bistro,1000
+MoMo Cafí© - Courtyard By Marriott,1400,"North Indian, South Indian, Asian, Continental",Ahmedabad,"Paratha, Pasta",4.4,"Avenida Ataulfo de Paiva, 1022, Lojas A e B, Leblon, Rio de Janeiro",MoMo Cafí© - Courtyard By Marriott,1400
+Cryo Lab,350,"Desserts, Ice Cream",Ahmedabad,Street Food,4.2,"Rua Gustavo Sampaio, 798, Leme, Rio de Janeiro",Cryo Lab,350
+Swati Snacks,450,"Fast Food, Street Food, South Indian",Ahmedabad,Street Food,4.2,"Rua Gustavo Sampaio, 610, Leme, Rio de Janeiro",Swati Snacks,450
+Brick Kitchen,900,"North Indian, Chinese, Continental",Ahmedabad,"Hot Chocolate Fudge, Vanilla Ice Cream, Fudge Cake, Chocolate Mousse",0,"Madureira Shopping - Loja 289/290, Piso 2, Estrada do Portela, 222, Madureira, Rio de Janeiro, RJ",Brick Kitchen,900
+Kabir Restaurant,600,"North Indian, Chinese, Continental, Desserts, Fast Food, Sandwich",Ahmedabad,"Prawn Biryani, Dragon Chicken, Chicken Boneless Biryani, Afghani Biryani, Mughlai Biryani, Paneer Tikka Biryani, Gongura Biryani",4.7,"Rua Aprazí_vel, 62, Santa Teresa, Rio de Janeiro",Kabir Restaurant,600
+Puffizza,700,"Italian, Fast Food",Ahmedabad,"Pasta, Momos, Rolls, Chicken Roll, Chilli Chicken, Paneer Roll, Spaghetti",4.6,"Rua Barí£o de Iguatemi, 379, Tijuca, Rio de Janeiro",Puffizza,700
+Cafe Alfresco,700,"Cafe, Beverages, Desserts, Pizza",Ahmedabad,"Salads, Sandwiches, Salad, Thai Rice, Pasta, Noodles, Pizza",4.3,"Avenida Joí£o Alves, 56, Urca, Rio de Janeiro",Cafe Alfresco,700
+The Cafe Baraco,600,"Cafe, Italian",Ahmedabad,Street Food,4.5,"Rua Avanhandava, 81, Bela Vista, Sí£o Paulo 10000",The Cafe Baraco,600
+Nini's Kitchen,950,"North Indian, Continental, Beverages, Italian, Burger, Healthy Food, Mediterranean",Ahmedabad,"Sushi, Noodles, Wine, Khau Suey, Mocktails, Yakisoba, Spring Roll",4.4,"Rua Treze de Maio, 668, Bela Vista, Sí£o Paulo 01327000",Nini's Kitchen,950
+Yanki Sizzlers,1200,"Continental, Italian, Chinese",Ahmedabad, wamama special mocktail and to finish fried ice cream. Everything was good.'),3.1,"Rua Antonio Carlos, 429, Consolaí_í£o, Sí£o Paulo",Yanki Sizzlers,1200
+The Garden Cafe - The Fern,1200,"North Indian, Italian, Asian, South Indian",Ahmedabad,Street Food,4.1,"Rua AntíÇnio Carlos, 268, Consolaí_í£o, Sí£o Paulo",The Garden Cafe - The Fern,1200
+Mazzo,550,"Cafe, American, Continental, Armenian, Fast Food",Ahmedabad,Street Food,4.8,"Hotel Unique, Avenida Brigadeiro Luí_s AntíÇnio, 4700, Jardim Paulista, Sí£o Paulo",Mazzo,550
+Turquoise Villa,1200,Continental,Ahmedabad,"Pasta, Pepper Pizza, Paneer Pizza, Peppy Paneer, Nachos, Supreme Pizza, Manchow Soup",4.6,"Rua Jesuí_no Arruda, 470, Itaim Bibi, Sí£o Paulo",Turquoise Villa,1200
+Aryan Family's Delight,500,"North Indian, South Indian, Fast Food",Allahabad, 'RATED\n  A not so good experience in this restaurant\nAmbience is okay but food taste is not upto mark\nThe curry leaf fried Chicken was soggy & not hot enough.\nCheesy fries was big dampener.. pizza cheese was just mixed with the fries which was way too sticky & fries itself tasted not so great.\nThe only solace was Thin crust Chicken supreme pizza which was good.\nService was quite slow. To get the starters it took almost 30 min.'),3.9,"Rua Tabapuí£, 1417, Itaim Bibi, Sí£o Paulo",Aryan Family's Delight,500
+Bean Here,350,"Cafe, Fast Food",Allahabad,"Sea Food, Crab Meat, Crab Soup, Fish Curry, Chicken Cafreal, Butter Naan, Butter Chicken",0,"Rua Pedroso Alvarenga, 522, Itaim Bibi, Sí£o Paulo, SP",Bean Here,350
+Bikanerwala,500,"North Indian, Street Food, Fast Food",Allahabad,Biryani,3.4,"Rua Haddock Lobo, 1240, Cerqueira Cí©sar, Jardim Paulista, Sí£o Paulo",Bikanerwala,500
+Dewsis,600,"North Indian, Chinese",Allahabad,"Salads, Panneer Butter Masala, Rabri, Gajar Ka Halwa, Manchow Soup, Aam Panna, Tomato Basil Soup",3.5,"Alameda Lorena, 300, Jardim Paulista, Sí£o Paulo",Dewsis,600
+Friends Forever,600,"North Indian, Chinese",Allahabad,Biryani,4.3,"Rua Haddock Lobo, 1738, Cerqueira Cí©sar, Jardim Paulista, Sí£o Paulo 10000",Friends Forever,600
+Hotel Ravisha Continental,600,"North Indian, South Indian, Chinese",Allahabad,"Grape Juice, Chicken Grill, Chicken Tikka Roll, Shawarma Roll, Chicken Shawarama, Biryani Combo, Rolls",3.9,"Rua Jacques Fí©lix, 405, Vila Nova Conceií_í£o, Moema, Sí£o Paulo",Hotel Ravisha Continental,600
+KFC,500,"American, Fast Food",Allahabad,Biryani,4.3,"Rua dos Pinheiros, 320, Pinheiros, Sí£o Paulo",KFC,500
+McDonald's,400,Fast Food,Allahabad,"Beer, Wedges, Pizza, Nachos, Salads, Papaya Salad, Buffalo Wings",4.3,"Praí_a Dom Josí© Gaspar, 42, Repí_blica, Sí£o Paulo 10000",McDonald's,400
+Pind Balluchi,800,"North Indian, Mughlai",Allahabad,"South Indian, North Indian",4.4,"Edifí_cio Itíçlia - 41ŒÁ Andar, Avenida Ipiranga, 344, Repí_blica, Sí£o Paulo",Pind Balluchi,800
+Pizza Hut,700,"Italian, Pizza",Allahabad,Biryani,0,"Shopping MetríÇ Santa Cruz - Piso L2, Rua Domingos de Morais, 2564, Vila Mariana, Sí£o Paulo",Pizza Hut,700
+Subway,400,"Fast Food, American, Salad, Healthy Food",Allahabad,"South Indian, North Indian",0,"Shopping Morumbi - Piso Lazer, Avenida Roque Petroni Jí_nior, 1089, Santo Amaro, Sí£o Paulo",Subway,400
+Tandoor Restaurant,500,"North Indian, Chinese",Allahabad,"Vegetable Biryani, Ginger Chicken, Chicken Biryani, Donne Biryani, Chicken Kebab, Egg Bhurji, Dum Biryani",4.4,"Avenida Nossa Senhora do Loreto, 1104, Vila Medeiros, Vila Maria, Sí£o Paulo",Tandoor Restaurant,500
+The BrewMaster,0,"North Indian, Chinese, Italian",Allahabad,Masala Dosa,4.6,"Rua Conceií_í£o Veloso, 56, Vila Mariana, Sí£o Paulo",The BrewMaster,0
+The Tamarind Tree,500,"South Indian, Chinese",Allahabad,"South Indian, North Indian",4.1,"Rua Dom Joí£o Batista da Costa, 70, Vila SíÇnia, Sí£o Paulo",The Tamarind Tree,500
+Cafe El Chico,1000,"Continental, Italian",Allahabad, 'RATED\n  Exhaustive mouth watery menu ,3.3,"2820 Meredyth Dr, Albany, GA 31707",Cafe El Chico,1000
+Eat On,200,North Indian,Allahabad,"Rolls, Momos, Fries, Veggie Roll, Chicken Kebab Roll, Paneer Roll, Cheese Roll",3.3,"2401 Dawson Rd, Albany, GA 31707",Eat On,200
+Hot Stuff,500,"North Indian, Fast Food",Allahabad,Masala Dosa,3.4,"115 N Jackson St, Albany, GA 31701",Hot Stuff,500
+Paradise,500,"Desserts, Fast Food",Allahabad,"Benne Dosa, Mirchi Bajji, Filter Coffee, Poha, Tea, Butter Dosa, Crispy Dosa",3.4,"2700 Dawson Rd, Albany, GA 31707",Paradise,500
+Sagar Ratna,400,"South Indian, North Indian, Chinese, Continental",Allahabad,Masala Dosa,3.4,"2726 Ledo Rd Ste 10, Albany, GA 31707",Sagar Ratna,400
+Moti Mahal Delux,800,"Mughlai, North Indian, Chinese",Allahabad,"South Indian, North Indian",3.4,"814 N Slappey Blvd, Albany, GA 31701",Moti Mahal Delux,800
+Makhan Fish and Chicken Corner,700,"North Indian, Chinese",Amritsar,Masala Dosa,3.5,"2703 Dawson Rd, Albany, GA 31707",Makhan Fish and Chicken Corner,700
+Charming Chicken,300,North Indian,Amritsar,Masala Dosa,3.9,"1214 N Westover Blvd, Albany, GA 31707",Charming Chicken,300
+Ahuja Milk Bhandar,100,Beverages,Amritsar,"Berryblast, Waffles, Cheesecake, Salted Caramel",3.7,"2347 Dawson Road, Albany, GA 31707",Ahuja Milk Bhandar,100
+Crystal Restaurant,800,"North Indian, Mughlai",Amritsar,Masala Dosa,3.5,"629 N. Westover Blvd, Albany, GA 31707",Crystal Restaurant,800
+Brijwasi Chat Bhandar,150,Street Food,Amritsar,"South Indian, North Indian",3.6,"2700 Dawson Rd, Albany, GA 31707",Brijwasi Chat Bhandar,150
+Bubby Fish & Chicken Corner,300,North Indian,Amritsar,Masala Dosa,3.8,"2526 Dawson Rd Ste A, Albany, GA 31707",Bubby Fish & Chicken Corner,300
+Bon Gateau,500,"Cafe, Bakery, Fast Food",Amritsar,"South Indian, North Indian",3.9,"204 S Jackson St, Albany, GA 31701",Bon Gateau,500
+The Yellow Chilli,1200,"North Indian, Mughlai, Chinese",Amritsar,"Chicken Boneless Biryani, Hyderabadi Biryani, Paneer Biryani, Tandoori Chicken, Vegetable Biryani, Chicken Kebab, Raita",3.5,"547 N Westover Blvd, Albany, GA 31707",The Yellow Chilli,1200
+La Roma Pizzeria,400,"Fast Food, Italian",Amritsar,"Fast Food, Continental, Italian, Bakery",3.5,"2733 Dawson Rd, Albany, GA 31707",La Roma Pizzeria,400
+Sakhis Watz Kukin,700,"North Indian, Chinese",Amritsar,Masala Dosa,3.6,"2610 Dawson Rd, Albany, GA 31707",Sakhis Watz Kukin,700
+The Kulcha Land,200,"North Indian, Street Food",Amritsar,"South Indian, North Indian",3.5,"629 N Westover Blvd, Albany, GA 31707",The Kulcha Land,200
+Shudh Restaurant,600,"North Indian, South Indian, Chinese, Fast Food",Amritsar,Masala Dosa,3.8,"2332 Whispering Pines Road, Albany, GA 31707",Shudh Restaurant,600
+Bade Bhai Ka Brothers' Dhaba,500,"North Indian, Fast Food",Amritsar,"South Indian, North Indian",3.7,"1604 N Slappey Blvd, Albany, GA 31701",Bade Bhai Ka Brothers' Dhaba,500
+Bharawan Da Dhaba,500,"North Indian, Fast Food",Amritsar,"Fast Food, Continental, Italian, Bakery",3.4,"202 W Franklin St, Sylvester, GA 31791",Bharawan Da Dhaba,500
